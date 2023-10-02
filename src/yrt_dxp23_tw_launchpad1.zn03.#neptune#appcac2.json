@@ -1,0 +1,13 @@
+[
+  {
+    "timer_inactivity": "0000000000",
+    "tfa_validity": 0,
+    "bdc_show_process": "E",
+    "pg_patch_version": "000000000000",
+    "patch_version": "023090000",
+    "layout_light": "NEPTUNE_HORIZON",
+    "layout_dark": "NEPTUNE_HORIZON_DARK",
+    "enable_system_theme": "X",
+    "csrf_validity": 0
+  }
+]
