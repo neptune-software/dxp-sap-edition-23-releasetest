@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 report ypr_rt23_hello_world.
 
-write: 'hello world'.
+write: 'hello world!!'.

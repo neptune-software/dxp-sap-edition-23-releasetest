@@ -13,6 +13,7 @@
     "parent": "00000000000000000000000000000000",
     "sub_menu": "false",
     "category": "00000000000000000000000000000000",
+    "tile_footer": "footer",
     "timestamp": 0,
     "url_alias": "00000000000000000000000000000000",
     "no_action": "false",
@@ -21,6 +22,7 @@
     "action_type": "tilegroup",
     "msgno": "000",
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "tile_text": "<div><br></div>"
   }
 ]
