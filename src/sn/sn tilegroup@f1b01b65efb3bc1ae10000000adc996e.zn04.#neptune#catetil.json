@@ -1,0 +1,32 @@
+[
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "17B01B65EFB3BC1AE10000000ADC996E",
+    "sort": 1
+  },
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "387828653B04AD1AE10000000ADC996E",
+    "sort": 3
+  },
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "5CA62865AB9CB61AE10000000ADC996E",
+    "sort": 4
+  },
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "60BE2C65E51AB71AE10000000ADC996E",
+    "sort": 5
+  },
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "A04424654341B81AE10000000ADC996E",
+    "sort": 2
+  },
+  {
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "guid_tile": "A1453365FFDABE1AE10000000ADC996E",
+    "sort": 6
+  }
+]

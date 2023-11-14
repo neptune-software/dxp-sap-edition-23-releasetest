@@ -1,0 +1,26 @@
+[
+  {
+    "app_appcache": "NEPTUNE_LAUNCHPAD_STANDARD",
+    "enable_passcode": "X",
+    "passcode_tries": "5",
+    "pg_version": "11",
+    "pg_ios": "X",
+    "pg_android": "X",
+    "pg_app_id": "com.neptune.releasetest23sn",
+    "pg_app_name": "RELEASE TEST 23 SN",
+    "pg_app_version": "23.9.6",
+    "pg_i_data_type": "X",
+    "app_mobile": "X",
+    "push_provider": "P",
+    "pdfview_exclude": "X",
+    "visible_all": "X",
+    "horizontal_menu": "X",
+    "open_apps_side": "X",
+    "no_submenu_hover": "X",
+    "nav_abbreviation": "X",
+    "cleanup_user": "X",
+    "cleanup_delay": "1",
+    "fallback_langu": "E",
+    "subtitle_in_menu": "X"
+  }
+]

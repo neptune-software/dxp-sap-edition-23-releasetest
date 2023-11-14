@@ -1,0 +1,87 @@
+[
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Test App"
+  },
+  {
+    "field_id": "00004",
+    "version": "0001",
+    "attribute": "titleAlignment",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00005",
+    "version": "0001",
+    "attribute": "setInitLoad",
+    "grouping": "Model",
+    "value": "online"
+  },
+  {
+    "field_id": "00008",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~EBELN"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~BUKRS"
+  },
+  {
+    "field_id": "00010",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~EBSTYP"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~ESART"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{EBELN}",
+    "binding_path": "REST_API!00005|5e42c7c4-fb83-4f54-8997-f7c90649349b|GT_EKKO!h|EBELN!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00015",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{BUKRS}",
+    "binding_path": "REST_API!00005|5e42c7c4-fb83-4f54-8997-f7c90649349b|GT_EKKO!h|BUKRS!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00016",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{BSTYP}",
+    "binding_path": "REST_API!00005|5e42c7c4-fb83-4f54-8997-f7c90649349b|GT_EKKO!h|BSTYP!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{BSART}",
+    "binding_path": "REST_API!00005|5e42c7c4-fb83-4f54-8997-f7c90649349b|GT_EKKO!h|BSART!C",
+    "bind_build_origin": "TREE_SEL"
+  }
+]

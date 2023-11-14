@@ -1,0 +1,17 @@
+[
+  {
+    "field_id": "00086",
+    "event": "text",
+    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#evtscr.txtoSFlApplCMS_ALL_TYPESWEBXSTRING.text.js"
+  },
+  {
+    "field_id": "00088",
+    "event": "text",
+    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#evtscr.oTxtStringFormatter.text.js"
+  },
+  {
+    "field_id": "00090",
+    "event": "text",
+    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#evtscr.Text.text.js"
+  }
+]

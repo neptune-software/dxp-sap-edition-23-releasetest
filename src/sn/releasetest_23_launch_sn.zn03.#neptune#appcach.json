@@ -1,0 +1,26 @@
+[
+  {
+    "app_appcache": "NEPTUNE_LAUNCHPAD_STANDARD",
+    "enable_passcode": "X",
+    "passcode_tries": "5",
+    "pg_ios": "X",
+    "pg_android": "X",
+    "pg_app_name": "RELEASETEST 23 LAUNCHPAD SN",
+    "pg_app_version": "23.1.0",
+    "pg_i_data_type": "X",
+    "user_sets_langu": "X",
+    "app_web": "X",
+    "use_menu": "X",
+    "push_provider": "P",
+    "visible_all": "X",
+    "active_app_title": "X",
+    "open_apps_side": "X",
+    "user_in_header": "X",
+    "favicon": "521E3E5E61029B05E10000000ADC9967",
+    "no_submenu_hover": "X",
+    "nav_abbreviation": "X",
+    "fallback_langu": "E",
+    "active_launchpad": "X",
+    "subtitle_in_menu": "X"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "timer_inactivity": "0000000000",
+    "passcode_length": "4",
+    "tfa_validity": 0,
+    "csrf_header": "X-CSRF-Token",
+    "bdc_show_process": "E",
+    "load_at_startup": "X",
+    "login_design": "DRC_LOGIN_PAGE_TEST",
+    "splash_design": "DRC_TESTING",
+    "pg_patch_version": "022060001000",
+    "patch_version": "000000000",
+    "csrf_validity": 0
+  }
+]

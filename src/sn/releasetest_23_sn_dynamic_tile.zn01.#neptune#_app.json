@@ -1,0 +1,13 @@
+[
+  {
+    "version": "0001",
+    "app_type": "A",
+    "clsname": "YCL_RT23_SN_DYNAMIC_TILE",
+    "title": "Demo Dynamic Tiles",
+    "descr": "Demo Dynamic Tiles",
+    "descr_mc": "DEMO DYNAMIC TILES",
+    "library": "5",
+    "ui5_m": "X",
+    "icfnode": "SDK"
+  }
+]

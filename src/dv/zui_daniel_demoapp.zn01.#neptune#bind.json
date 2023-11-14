@@ -1,0 +1,12 @@
+[
+  {
+    "field_id": "00007",
+    "bind_object": "DATA",
+    "bind_type": "h",
+    "binding": "GT_EKKO",
+    "binding_root_type": "REST_API",
+    "binding_root_field_id": "00005",
+    "binding_path": "REST_API!00005|5e42c7c4-fb83-4f54-8997-f7c90649349b|GT_EKKO!h",
+    "bind_build_origin": "TREE_SEL"
+  }
+]

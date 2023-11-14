@@ -1,0 +1,11 @@
+[
+  {
+    "enhancement": "RELEASETEST_23_SN_LOGIN_PAGE",
+    "descr": "SN LOGIN PAGE",
+    "sys_name": "N4D DXP 23",
+    "link1_url": "www.google.pt",
+    "link3_lbl": "Neptune Support",
+    "link3_url": "https://support.neptune-software.com/",
+    "notice_text": "<p>If you need help, raise a ticket on our Support Platform!</p>"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "field_id": "00001",
+    "field_name": "HTML5 Document",
+    "field_type": "HTML5 DOC",
+    "field_pos": "00001",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00002",
+    "field_name": "Resources",
+    "field_type": "RESOURCES",
+    "field_pos": "00003",
+    "field_parent": "00000",
+    "is_container": "X",
+    "calculate_date": 0,
+    "is_view": "X",
+    "extend_id": "00000"
+  },
+  {
+    "field_id": "00003",
+    "field_name": "Shell",
+    "field_type": "UM5_SHELL",
+    "field_pos": "00002",
+    "field_parent": "00001",
+    "is_container": "X",
+    "calculate_date": 0,
+    "extend_id": "00000"
+  }
+]

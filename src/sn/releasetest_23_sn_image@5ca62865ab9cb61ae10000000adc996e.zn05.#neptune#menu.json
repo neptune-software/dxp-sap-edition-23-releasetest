@@ -1,0 +1,29 @@
+[
+  {
+    "guid": "5CA62865AB9CB61AE10000000ADC996E",
+    "name": "RELEASETEST_23_SN_IMAGE",
+    "activated": "true",
+    "tile_info": "Size Testing",
+    "tile_title": "IMAGE",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "tile_backimage": "6BEBED614EEA043DE10000000ADC9967",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
+    "tile_back_size": "auto",
+    "action_type": "noaction",
+    "fiori_style": "X",
+    "msgno": "000",
+    "tile_back_type": "T",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": "60BE2C65E51AB71AE10000000ADC996E",
+    "name": "RELEASETEST_23_SN_BINDING_TILE",
+    "applid": "RELEASETEST_23_SN_BINDINGS",
+    "activated": "true",
+    "tile_title": "Test Binding App",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "category": "00000000000000000000000000000000",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "00000000000000000000000000000000",
+    "back_width": "Small",
+    "action_type": "application",
+    "fiori_style": "X",
+    "msgno": "000",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00009",
+    "model": "oPanelApplClass",
+    "receive": "X"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00012",
+    "model": "oSFlApplCMS_ALL_TYPES_SAP_GUI",
+    "receive": "X"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00062",
+    "model": "oSFlApplCMS_ALL_TYPES_WEB",
+    "receive": "X"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00091",
+    "model": "oSFlApplCMS_ALL_TYPES_WEB_NEW",
+    "receive": "X"
+  }
+]

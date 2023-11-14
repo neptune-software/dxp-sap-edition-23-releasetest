@@ -1,0 +1,16 @@
+[
+  {
+    "app_type": "A",
+    "library": "5",
+    "ui5_m": "X",
+    "ui5_viz": "X",
+    "ui5_table": "X",
+    "ui5_suite": "X",
+    "ui5_suite_ui": "X",
+    "ui5_uxap": "X",
+    "ui5_tnt": "X",
+    "ui5_comp": "X",
+    "ui5_f": "X",
+    "ui5_integration": "X"
+  }
+]

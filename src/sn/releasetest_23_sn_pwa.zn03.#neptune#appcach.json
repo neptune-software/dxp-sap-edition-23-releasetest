@@ -1,0 +1,30 @@
+[
+  {
+    "app_appcache": "NEPTUNE_LAUNCHPAD_STANDARD",
+    "enable_passcode": "X",
+    "passcode_tries": "5",
+    "pg_ios": "X",
+    "pg_android": "X",
+    "pg_app_name": "PWA LAUNCHPAD SN BASIC AUTH",
+    "pg_app_version": "23.9.0",
+    "pg_i_data_type": "X",
+    "app_language": "F",
+    "user_sets_langu": "X",
+    "app_web": "X",
+    "use_menu": "X",
+    "push_provider": "P",
+    "hide_side_menu": "X",
+    "visible_all": "X",
+    "open_apps_header": "X",
+    "active_app_title": "X",
+    "horizontal_menu": "X",
+    "no_remote_debug": "X",
+    "user_in_header": "X",
+    "favicon": "00163EDC99661ED9AFDDA6D6F21CDB0A",
+    "cleanup_user": "X",
+    "cleanup_delay": "90",
+    "fallback_langu": "P",
+    "active_launchpad": "X",
+    "subtitle_in_menu": "X"
+  }
+]

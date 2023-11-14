@@ -1,0 +1,28 @@
+[
+  {
+    "guid": "655B3F6303130E38E10000000ADC996E",
+    "name": "AFC SUBGROUP 1",
+    "activated": "true",
+    "tile_info": "AFC SUBGROUP 1",
+    "tile_title": "AFC SUBGROUP 1",
+    "tile_infostate": "None",
+    "sort": "00000",
+    "visible_all": "true",
+    "url_window": "false",
+    "sap_trans_window": "false",
+    "parent": "00000000000000000000000000000000",
+    "sub_menu": "false",
+    "category": "00000000000000000000000000000000",
+    "tile_footer": "footer",
+    "timestamp": 0,
+    "url_alias": "00000000000000000000000000000000",
+    "no_action": "false",
+    "tilegroup": "7CFD3E6306040A38E10000000ADC996E",
+    "back_width": "Small",
+    "action_type": "tilegroup",
+    "msgno": "000",
+    "tile_layout": "00000000000000000000000000000000",
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "tile_text": "<div><br></div>"
+  }
+]

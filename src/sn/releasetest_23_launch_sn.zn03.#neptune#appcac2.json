@@ -1,0 +1,15 @@
+[
+  {
+    "timer_inactivity": "0000000000",
+    "logoff_url": "https://s4dev.neptune-software.com/sap/public/bc/icf/logoff",
+    "tfa_validity": 0,
+    "bdc_show_process": "E",
+    "splash_design": "NEPTUNEDARK",
+    "pg_patch_version": "000000000000",
+    "patch_version": "023010000",
+    "layout_light": "NEPTUNE_HORIZON",
+    "layout_dark": "NEPTUNE_HORIZON_DARK",
+    "enable_system_theme": "X",
+    "csrf_validity": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "field_id": "00003",
+    "attribute": "appWidthLimited",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "defaultTransitionName",
+    "grouping": "Properties",
+    "value": "show"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Full Screen"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentLeft"
+  },
+  {
+    "field_id": "00008",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00009",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00010",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Update"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Demo"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "intro",
+    "grouping": "Properties",
+    "value": "Demo"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "responsive",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Dynamic Tiles"
+  },
+  {
+    "field_id": "00008",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://hint"
+  },
+  {
+    "field_id": "00009",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "This app is a container for Dynamic Tile update"
+  },
+  {
+    "field_id": "00010",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "showing all possible tile charts in Neptune UX Platform"
+  }
+]

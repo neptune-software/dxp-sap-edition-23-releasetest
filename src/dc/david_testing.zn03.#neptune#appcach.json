@@ -1,0 +1,24 @@
+[
+  {
+    "description": "this is a long description",
+    "app_appcache": "NEPTUNE_LAUNCHPAD_STANDARD",
+    "enable_passcode": "X",
+    "passcode_tries": "5",
+    "pg_ios": "X",
+    "pg_android": "X",
+    "pg_winphone": "X",
+    "pg_app_name": "David's Launchpad to Doom",
+    "pg_app_version": "22.06.0001.0",
+    "pg_i_data_type": "X",
+    "app_web": "X",
+    "use_menu": "X",
+    "push_provider": "P",
+    "visible_all": "X",
+    "open_apps_header": "X",
+    "horizontal_menu": "X",
+    "banner": "NEPTUNE_SOCIAL",
+    "favicon": "1CF64D63057B0F38E10000000ADC996E",
+    "disable_tile_chg": "X",
+    "fallback_langu": "E"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "field_id": "00009",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "MS_ALL_TYPES",
+    "binding_root_type": "APPL_CLASS",
+    "binding_root_field_id": "00000",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00012",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "MS_ALL_TYPES",
+    "binding_root_type": "APPL_CLASS",
+    "binding_root_field_id": "00000",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00062",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "MS_ALL_TYPES",
+    "binding_root_type": "APPL_CLASS",
+    "binding_root_field_id": "00000",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00091",
+    "bind_object": "DATA",
+    "bind_type": "u",
+    "binding": "MS_ALL_TYPES",
+    "binding_root_type": "APPL_CLASS",
+    "binding_root_field_id": "00000",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v",
+    "bind_build_origin": "TREE_SEL"
+  }
+]
