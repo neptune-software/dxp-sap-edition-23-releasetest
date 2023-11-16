@@ -1,17 +1,21 @@
 [
   {
+    "configuration": "RELEASETEST_23_LAUNCH_SN",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
   },
   {
+    "configuration": "RELEASETEST_23_SN",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
   },
   {
+    "configuration": "RELEASETEST_23_SN_PWA",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
   },
   {
+    "configuration": "RELEASETEST_23_SN_PWA_OAUTH",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
   }
