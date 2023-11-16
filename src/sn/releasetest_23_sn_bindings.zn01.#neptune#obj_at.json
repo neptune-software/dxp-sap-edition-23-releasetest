@@ -370,6 +370,12 @@
     "bind_build_origin": "TREE_SEL"
   },
   {
+    "field_id": "00091",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "sap.ui.layout.form.SimpleForm MS_ALL_TYPES NEW"
+  },
+  {
     "field_id": "00092",
     "attribute": "text",
     "grouping": "Properties",
@@ -420,6 +426,12 @@
   {
     "field_id": "00099",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:SAPUserDefault"
+  },
+  {
+    "field_id": "00099",
+    "attribute": "text",
     "grouping": "Properties",
     "value": "{/D}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D",
@@ -430,6 +442,12 @@
     "attribute": "text",
     "grouping": "Properties",
     "value": "T"
+  },
+  {
+    "field_id": "00101",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "time:SAPUserDefault:Long"
   },
   {
     "field_id": "00101",
@@ -546,8 +564,46 @@
   {
     "field_id": "00117",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00117",
+    "attribute": "text",
     "grouping": "Properties",
-    "value": "{/F}",
-    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|F!F"
+    "value": "{/STRING}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|STRING!g"
+  },
+  {
+    "field_id": "00118",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Char C & STRING (Bind and Concatenate)"
+  },
+  {
+    "field_id": "00119",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Date D Formatted Comment"
+  },
+  {
+    "field_id": "00120",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/C},{/STRING}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C,APPL_CLASS|MS_ALL_TYPES!v|STRING!g"
+  },
+  {
+    "field_id": "00121",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00121",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/D}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D"
   }
 ]

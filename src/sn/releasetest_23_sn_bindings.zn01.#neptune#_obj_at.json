@@ -431,6 +431,13 @@
     "bind_build_origin": "TREE_SEL"
   },
   {
+    "field_id": "00091",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "sap.ui.layout.form.SimpleForm MS_ALL_TYPES NEW"
+  },
+  {
     "field_id": "00092",
     "version": "0001",
     "attribute": "text",
@@ -489,6 +496,13 @@
     "field_id": "00099",
     "version": "0001",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "date:SAPUserDefault"
+  },
+  {
+    "field_id": "00099",
+    "version": "0001",
+    "attribute": "text",
     "grouping": "Properties",
     "value": "{/D}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D",
@@ -500,6 +514,13 @@
     "attribute": "text",
     "grouping": "Properties",
     "value": "T"
+  },
+  {
+    "field_id": "00101",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "time:SAPUserDefault:Long"
   },
   {
     "field_id": "00101",
@@ -633,8 +654,52 @@
     "field_id": "00117",
     "version": "0001",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00117",
+    "version": "0001",
+    "attribute": "text",
     "grouping": "Properties",
-    "value": "{/F}",
-    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|F!F"
+    "value": "{/STRING}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|STRING!g"
+  },
+  {
+    "field_id": "00118",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Char C & STRING (Bind and Concatenate)"
+  },
+  {
+    "field_id": "00119",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Date D Formatted Comment"
+  },
+  {
+    "field_id": "00120",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/C},{/STRING}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C,APPL_CLASS|MS_ALL_TYPES!v|STRING!g"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00121",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/D}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D"
   }
 ]

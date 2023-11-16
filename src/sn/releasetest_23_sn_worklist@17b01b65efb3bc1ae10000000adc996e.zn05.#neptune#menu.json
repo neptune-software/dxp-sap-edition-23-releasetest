@@ -15,6 +15,8 @@
     "category": "00000000000000000000000000000000",
     "timestamp": 0,
     "url_alias": "00000000000000000000000000000000",
+    "nav_object": "display",
+    "nav_action": "obj_page",
     "no_action": "false",
     "tags": "RELEASE,TESTING_DXP23,NEW",
     "tilegroup": "00000000000000000000000000000000",

@@ -1,0 +1,422 @@
+[
+  {
+    "field_id": "00004",
+    "attribute": "headerExpanded",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "preserveHeaderStateOnScroll",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00004",
+    "attribute": "styleClassPadding",
+    "grouping": "Properties",
+    "value": "sapUiNoContentPadding"
+  },
+  {
+    "field_id": "00005",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Solid"
+  },
+  {
+    "field_id": "00006",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setHeading"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "alignItems",
+    "grouping": "Properties",
+    "value": "Center"
+  },
+  {
+    "field_id": "00007",
+    "attribute": "fitContainer",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00008",
+    "attribute": "src",
+    "grouping": "Properties",
+    "value": "sap-icon://customer-and-contacts"
+  },
+  {
+    "field_id": "00009",
+    "attribute": "styleClassMargin",
+    "grouping": "Properties",
+    "value": "sapUiSmallMarginBegin"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "level",
+    "grouping": "Properties",
+    "value": "H1"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "styleClassMargin",
+    "grouping": "Properties",
+    "value": "sapUiTinyMarginEnd"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Customers"
+  },
+  {
+    "field_id": "00011",
+    "attribute": "wrapping",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "level",
+    "grouping": "Properties",
+    "value": "H1"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "styleClassMargin",
+    "grouping": "Properties",
+    "value": "sapUiTinyMarginEnd"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "(0)"
+  },
+  {
+    "field_id": "00012",
+    "attribute": "wrapping",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00013",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "General Data in Customer Master"
+  },
+  {
+    "field_id": "00014",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addAction"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "enableCompactMode",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00015",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Action"
+  },
+  {
+    "field_id": "00016",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addNavigationAction"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "enableCompactMode",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00017",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://refresh"
+  },
+  {
+    "field_id": "00018",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addSnappedContent"
+  },
+  {
+    "field_id": "00019",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "addExpandedContent"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "backgroundDesign",
+    "grouping": "Properties",
+    "value": "Transparent"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "enableCompactMode",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "expanded",
+    "grouping": "Properties",
+    "value": "true"
+  },
+  {
+    "field_id": "00021",
+    "attribute": "styleClassPadding",
+    "grouping": "Properties",
+    "value": "sapUiNoContentPadding"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "spanL",
+    "grouping": "Properties",
+    "value": "3"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "spanM",
+    "grouping": "Properties",
+    "value": "6"
+  },
+  {
+    "field_id": "00023",
+    "attribute": "spanS",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00025",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Search"
+  },
+  {
+    "field_id": "00026",
+    "attribute": "liveChange",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "spanL",
+    "grouping": "Properties",
+    "value": "3"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "spanM",
+    "grouping": "Properties",
+    "value": "6"
+  },
+  {
+    "field_id": "00027",
+    "attribute": "spanS",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00029",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Sorting"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "change",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00030",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100%"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "spanL",
+    "grouping": "Properties",
+    "value": "3"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "spanM",
+    "grouping": "Properties",
+    "value": "6"
+  },
+  {
+    "field_id": "00031",
+    "attribute": "spanS",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00033",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Grouping"
+  },
+  {
+    "field_id": "00034",
+    "attribute": "change",
+    "grouping": "Events",
+    "value": "pageListFilterInputSort.fireChange(pageListFilterInputSort);"
+  },
+  {
+    "field_id": "00034",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100%"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "spanL",
+    "grouping": "Properties",
+    "value": "3"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "spanM",
+    "grouping": "Properties",
+    "value": "6"
+  },
+  {
+    "field_id": "00035",
+    "attribute": "spanS",
+    "grouping": "Properties",
+    "value": "12"
+  },
+  {
+    "field_id": "00037",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Order"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "change",
+    "grouping": "Events",
+    "value": "pageListFilterInputSort.fireChange(pageListFilterInputSort);"
+  },
+  {
+    "field_id": "00038",
+    "attribute": "width",
+    "grouping": "Properties",
+    "value": "100%"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "key",
+    "grouping": "Properties",
+    "value": "ASC"
+  },
+  {
+    "field_id": "00039",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Ascending"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "key",
+    "grouping": "Properties",
+    "value": "DESC"
+  },
+  {
+    "field_id": "00040",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Descending"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "fixedLayout",
+    "grouping": "Properties",
+    "value": "false"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "mode",
+    "grouping": "Properties",
+    "value": "SingleSelectMaster"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "sticky",
+    "grouping": "Properties",
+    "value": "[\"ColumnHeaders\"]"
+  },
+  {
+    "field_id": "00042",
+    "attribute": "updateFinished",
+    "grouping": "Events",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00043",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00044",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentRight"
+  },
+  {
+    "field_id": "00045",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Action"
+  },
+  {
+    "field_id": "00046",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~KUNNR"
+  },
+  {
+    "field_id": "00047",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~NAME1_GP"
+  },
+  {
+    "field_id": "00049",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{KUNNR}"
+  },
+  {
+    "field_id": "00050",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{NAME1_GP}"
+  },
+  {
+    "field_id": "00052",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~ORT01_GP"
+  },
+  {
+    "field_id": "00053",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{ORT1}"
+  }
+]
