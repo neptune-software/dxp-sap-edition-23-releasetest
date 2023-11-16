@@ -6,4 +6,4 @@ console.log('attachInit');
 neptune.Shell.attachBeforeDisplay(() => {
     console.log('beforeDisplay');
 });
-
+
