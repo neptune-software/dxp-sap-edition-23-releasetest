@@ -1,0 +1,27 @@
+[
+  {
+    "field_id": "00026",
+    "event": "liveChange",
+    "file_name": "releasetest_23_sn_check_wl_2.zn01.#neptune#evtscr.pageListFilterInputSearch.liveChange.js"
+  },
+  {
+    "field_id": "00030",
+    "event": "change",
+    "file_name": "releasetest_23_sn_check_wl_2.zn01.#neptune#evtscr.pageListFilterInputSort.change.js"
+  },
+  {
+    "field_id": "00034",
+    "event": "change",
+    "file_name": "releasetest_23_sn_check_wl_2.zn01.#neptune#evtscr.pageListFilterInputGroup.change.js"
+  },
+  {
+    "field_id": "00038",
+    "event": "change",
+    "file_name": "releasetest_23_sn_check_wl_2.zn01.#neptune#evtscr.pageListFilterInputOrder.change.js"
+  },
+  {
+    "field_id": "00042",
+    "event": "updateFinished",
+    "file_name": "releasetest_23_sn_check_wl_2.zn01.#neptune#evtscr.TabData.updateFinished.js"
+  }
+]
