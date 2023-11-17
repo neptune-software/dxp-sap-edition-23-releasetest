@@ -30,5 +30,6 @@ sap.ui.getCore().attachInit(function(data, navObj) {
     };
     // changed to only 4 empty lines at the end i now change to only 3 lines
 });
+// ADNREC
 
 

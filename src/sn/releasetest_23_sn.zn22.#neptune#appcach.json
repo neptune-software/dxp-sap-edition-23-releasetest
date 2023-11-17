@@ -14,6 +14,7 @@
     "push_provider": "P",
     "pdfview_exclude": "X",
     "visible_all": "X",
+    "global_style": "releasetest_23_sn.zn22.#neptune#appcach.css",
     "horizontal_menu": "X",
     "open_apps_side": "X",
     "no_submenu_hover": "X",
