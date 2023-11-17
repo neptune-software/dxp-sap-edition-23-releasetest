@@ -28,6 +28,7 @@ sap.ui.getCore().attachInit(function(data, navObj) {
             pageListFilterInputSearch.rerender();
         });
     };
+    // changed to only 4 empty lines at the end
 });
 
 
