@@ -319,7 +319,7 @@
     "version": "0001",
     "attribute": "change",
     "grouping": "Events",
-    "value": "pageListFilterInputSort.fireChange(pageListFilterInputSort);"
+    "value": "Anonymous Function"
   },
   {
     "field_id": "00034",
