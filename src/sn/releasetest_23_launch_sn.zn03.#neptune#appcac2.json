@@ -1,7 +1,6 @@
 [
   {
     "timer_inactivity": "0000000000",
-    "logoff_url": "https://s4dev.neptune-software.com/sap/public/bc/icf/logoff",
     "tfa_validity": 0,
     "bdc_show_process": "E",
     "splash_design": "NEPTUNEDARK",

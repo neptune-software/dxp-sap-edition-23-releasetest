@@ -3,9 +3,10 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <meta>
-    <VERSION>23.09.0007</VERSION>
-    <PATCHVERSION>023090007</PATCHVERSION>
+    <DXP_VERSION>23.10.0000</DXP_VERSION>
+    <PATCHVERSION>023100000</PATCHVERSION>
     <SAPUI5_VERSION>1.108</SAPUI5_VERSION>
+    <EXTENSION_VERSION>1.0.1</EXTENSION_VERSION>
    </meta>
   </asx:values>
  </asx:abap>
