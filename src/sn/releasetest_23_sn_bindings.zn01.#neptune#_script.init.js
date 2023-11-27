@@ -5,6 +5,7 @@
  * @param {Function} navObj.updateNavigationItemFn - Update title & subtitle on navigation item
  */
 // Model Application Control
+// new line
 var appControl = new sap.ui.model.json.JSONModel();
 
 appControl.setData({
