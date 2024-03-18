@@ -4,6 +4,7 @@
     "library": "5",
     "ui5_m": "X",
     "icfnode": "BASIC",
-    "ui5_uxap": "X"
+    "ui5_uxap": "X",
+    "origin": "000000000"
   }
 ]

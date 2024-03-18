@@ -2,6 +2,7 @@
   {
     "app_type": "A",
     "library": "5",
-    "ui5_m": "X"
+    "ui5_m": "X",
+    "origin": "000000000"
   }
 ]

@@ -4,6 +4,7 @@
     "app_type": "A",
     "library": "5",
     "ui5_m": "X",
-    "ts_compile_target": "es2016"
+    "ts_compile_target": "es2016",
+    "origin": "000000000"
   }
 ]

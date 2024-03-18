@@ -3,6 +3,7 @@
     "app_type": "A",
     "clsname": "/NEPTUNE/CL_UNIT_TEST_APP",
     "library": "5",
-    "ui5_m": "X"
+    "ui5_m": "X",
+    "origin": "000000000"
   }
 ]
