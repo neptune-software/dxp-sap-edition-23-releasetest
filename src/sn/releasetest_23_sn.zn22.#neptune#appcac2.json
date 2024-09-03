@@ -1,14 +1,15 @@
 [
   {
     "fingerprint": "X",
-    "timer_inactivity": "0000000000",
     "icfnode": "BASIC",
     "tfa_validity": 0,
     "bdc_show_process": "E",
+    "enable_enhance": "X",
+    "enhancement": "SN_ENHANCEMENT",
     "media_pack": "B4616463E0120B72E10000000ADC996E",
     "splash_design": "DRC_TESTING",
     "pg_patch_version": "000000000000",
-    "patch_version": "023090007",
+    "patch_version": "023100008",
     "layout_light": "NEPTUNE_HORIZON",
     "layout_dark": "NEPTUNE_HORIZON_DARK",
     "enable_system_theme": "X",

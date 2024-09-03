@@ -1,10 +1,11 @@
 [
   {
-    "timer_inactivity": "0000000000",
     "tfa_validity": 0,
     "bdc_show_process": "E",
     "load_at_startup": "X",
-    "media_pack": "51673E5E8E3B742EE10000000ADC9967",
+    "enable_enhance": "X",
+    "enhancement": "SN_ENHANCEMENT",
+    "media_pack": "EE9FE2582C5979F180CA005056A84871",
     "splash_design": "EXPANSE",
     "pg_patch_version": "000000000000",
     "ext_icfalias": "/neptune/pwa1",

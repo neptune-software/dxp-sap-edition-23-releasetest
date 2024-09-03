@@ -12,15 +12,18 @@
     "app_web": "X",
     "use_menu": "X",
     "push_provider": "P",
+    "hide_side_menu": "X",
     "visible_all": "X",
+    "open_apps_header": "X",
     "active_app_title": "X",
-    "open_apps_side": "X",
+    "horizontal_menu": "X",
+    "no_remote_debug": "X",
     "user_in_header": "X",
     "favicon": "521E3E5E61029B05E10000000ADC9967",
-    "no_submenu_hover": "X",
     "nav_abbreviation": "X",
     "fallback_langu": "E",
     "active_launchpad": "X",
-    "subtitle_in_menu": "X"
+    "subtitle_in_menu": "X",
+    "prevent_inithash": "X"
   }
 ]

@@ -19,12 +19,14 @@
     "active_app_title": "X",
     "horizontal_menu": "X",
     "no_remote_debug": "X",
+    "complex_passcode": "X",
     "user_in_header": "X",
     "favicon": "00163EDC99661ED9AFDDA6D6F21CDB0A",
     "cleanup_user": "X",
     "cleanup_delay": "90",
     "fallback_langu": "P",
     "active_launchpad": "X",
-    "subtitle_in_menu": "X"
+    "subtitle_in_menu": "X",
+    "prevent_inithash": "X"
   }
 ]

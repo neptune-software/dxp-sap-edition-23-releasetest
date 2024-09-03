@@ -1,0 +1,26 @@
+[
+  {
+    "apiid": "8ff1a265-1045-401a-a449-b0b094d7955b",
+    "operid": "9214b37a-bc86-499a-bbbd-c0bc3dd6817c",
+    "binding": "GV_DOCNUM",
+    "req_body": "X",
+    "res_body": "X",
+    "type_kind": "E"
+  },
+  {
+    "apiid": "8ff1a265-1045-401a-a449-b0b094d7955b",
+    "operid": "9214b37a-bc86-499a-bbbd-c0bc3dd6817c",
+    "binding": "MT_EDIDD",
+    "req_body": "X",
+    "res_body": "X",
+    "type_kind": "I"
+  },
+  {
+    "apiid": "8ff1a265-1045-401a-a449-b0b094d7955b",
+    "operid": "9214b37a-bc86-499a-bbbd-c0bc3dd6817c",
+    "binding": "MT_EDIDS",
+    "req_body": "X",
+    "res_body": "X",
+    "type_kind": "I"
+  }
+]

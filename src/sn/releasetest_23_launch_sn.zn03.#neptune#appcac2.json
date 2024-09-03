@@ -1,8 +1,9 @@
 [
   {
-    "timer_inactivity": "0000000000",
+    "sapui5_version": "1.108",
     "tfa_validity": 0,
     "bdc_show_process": "E",
+    "enhancement": "SN_ENHANCEMENT",
     "splash_design": "NEPTUNEDARK",
     "pg_patch_version": "000000000000",
     "patch_version": "023010000",

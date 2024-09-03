@@ -1,6 +1,10 @@
 [
   {
     "field_id": "00007",
-    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#_script.init.00007.js"
+    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#_script.init.js"
+  },
+  {
+    "field_id": "00171",
+    "file_name": "releasetest_23_sn_bindings.zn01.#neptune#_script.Javascript.js"
   }
 ]

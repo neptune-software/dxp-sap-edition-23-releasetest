@@ -24,6 +24,14 @@
     "file_name": "test@371a396324dd0838e10000000adc996e.zn18.#neptune#mime@79d339634e670a38e10000000adc996e.octocat.png"
   },
   {
+    "name": "TEST EXCEL.xlsx",
+    "parent": "371A396324DD0838E10000000ADC996E",
+    "type": "XLSX",
+    "file_kb": "     9",
+    "guid": "4C87A96504C83215E10000000ADC996E",
+    "file_name": "test@371a396324dd0838e10000000adc996e.zn18.#neptune#mime@4c87a96504c83215e10000000adc996e.test excel.xlsx"
+  },
+  {
     "name": "World-Of-Warcraft-Logo-Transparent-Image.png",
     "parent": "371A396324DD0838E10000000ADC996E",
     "type": "PNG",

@@ -47,5 +47,47 @@
     "attribute": "text",
     "grouping": "Properties",
     "value": "showing all possible tile charts in Neptune UX Platform"
+  },
+  {
+    "field_id": "00013",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setCustomHeader"
+  },
+  {
+    "field_id": "00014",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00017",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "setFooter"
+  },
+  {
+    "field_id": "00018",
+    "version": "0001",
+    "attribute": "position",
+    "grouping": "Parent",
+    "value": "ContentMiddle"
+  },
+  {
+    "field_id": "00019",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://fas/1"
+  },
+  {
+    "field_id": "00020",
+    "version": "0001",
+    "attribute": "icon",
+    "grouping": "Properties",
+    "value": "sap-icon://fas/0"
   }
 ]

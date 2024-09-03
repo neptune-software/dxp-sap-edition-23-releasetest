@@ -26,5 +26,26 @@
     "model_id": "00091",
     "model": "oSFlApplCMS_ALL_TYPES_WEB_NEW",
     "receive": "X"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00125",
+    "model": "SimpleForm",
+    "receive": "X"
+  },
+  {
+    "field_id": "00009",
+    "version": "0001",
+    "model_id": "00128",
+    "model": "SimpleForm2",
+    "receive": "X"
+  },
+  {
+    "field_id": "00011",
+    "version": "0001",
+    "model_id": "00127",
+    "model": "SimpleForm1",
+    "receive": "X"
   }
 ]

@@ -1,11 +1,11 @@
 [
   {
     "guid": "17B01B65EFB3BC1AE10000000ADC996E",
-    "name": "RELEASETEST_23_SN_OBJ_PAGE",
-    "applid": "RELEASETEST_23_SN_NEW_OBJ_PAGE",
+    "name": "RELEASETEST_23_SN_VIZ_CHARTS",
+    "applid": "RELEASETEST_23_SN_SIMPLE",
     "activated": "true",
     "tile_info": "DXP 23 Testing",
-    "tile_title": "SN Object Page",
+    "tile_title": "SN Viz Chart",
     "tile_infostate": "None",
     "sort": "00000",
     "visible_all": "true",
@@ -15,16 +15,21 @@
     "category": "00000000000000000000000000000000",
     "timestamp": 0,
     "url_alias": "00000000000000000000000000000000",
+    "applid_sidepanel": "RELEASETEST_23_SN_BINDINGS",
+    "sidepanel_title": "Bindings",
+    "enable_doc": "X",
     "nav_object": "display",
-    "nav_action": "obj_page",
+    "nav_action": "objpage",
     "no_action": "false",
     "tags": "RELEASE,TESTING_DXP23,NEW",
     "tilegroup": "00000000000000000000000000000000",
     "back_width": "Small",
+    "tile_help": "X",
     "action_type": "application",
     "fiori_style": "X",
     "msgno": "000",
     "tile_layout": "00000000000000000000000000000000",
-    "tile_layout_dark": "00000000000000000000000000000000"
+    "tile_layout_dark": "00000000000000000000000000000000",
+    "help_link_text": "Get Help here"
   }
 ]

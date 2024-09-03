@@ -1,5 +1,10 @@
 [
   {
+    "configuration": "PWA_SN_OAUTH",
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "sort": 1
+  },
+  {
     "configuration": "RELEASETEST_23_LAUNCH_SN",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
@@ -7,7 +12,7 @@
   {
     "configuration": "RELEASETEST_23_SN",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
-    "sort": 1
+    "sort": 2
   },
   {
     "configuration": "RELEASETEST_23_SN_PWA",
@@ -16,6 +21,16 @@
   },
   {
     "configuration": "RELEASETEST_23_SN_PWA_OAUTH",
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "sort": 1
+  },
+  {
+    "configuration": "SN_AZURE",
+    "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
+    "sort": 1
+  },
+  {
+    "configuration": "SN_CERTIFICATE_N4D",
     "guid": "F1B01B65EFB3BC1AE10000000ADC996E",
     "sort": 1
   }

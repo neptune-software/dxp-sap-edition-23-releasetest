@@ -1,6 +1,5 @@
 [
   {
-    "timer_inactivity": "0000000000",
     "passcode_length": "4",
     "tfa_validity": 0,
     "csrf_header": "X-CSRF-Token",

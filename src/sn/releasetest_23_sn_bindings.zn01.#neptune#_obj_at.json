@@ -638,6 +638,13 @@
     "field_id": "00115",
     "version": "0001",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00115",
+    "version": "0001",
+    "attribute": "text",
     "grouping": "Properties",
     "value": "{/XSTRING}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|XSTRING!y",
@@ -701,5 +708,302 @@
     "grouping": "Properties",
     "value": "{/D}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D"
+  },
+  {
+    "field_id": "00129",
+    "version": "0001",
+    "attribute": "href",
+    "grouping": "Properties",
+    "value": "https://www.google.com"
+  },
+  {
+    "field_id": "00129",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00129",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/STRING}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|STRING!g",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00130",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Link"
+  },
+  {
+    "field_id": "00132",
+    "version": "0001",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Dialog Test"
+  },
+  {
+    "field_id": "00133",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Text1 Dialog"
+  },
+  {
+    "field_id": "00139",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "C"
+  },
+  {
+    "field_id": "00140",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{C}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|C!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00141",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "F"
+  },
+  {
+    "field_id": "00142",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{F}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|F!F",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00143",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "P"
+  },
+  {
+    "field_id": "00144",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{P}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|P!P",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00145",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "D"
+  },
+  {
+    "field_id": "00146",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{D}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|D!D",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00147",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "T"
+  },
+  {
+    "field_id": "00148",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{T}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|T!T",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00149",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "I"
+  },
+  {
+    "field_id": "00150",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{I}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|I!I",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00151",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "X"
+  },
+  {
+    "field_id": "00152",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{X}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|X!X",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00153",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "N"
+  },
+  {
+    "field_id": "00154",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{N}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|N!N",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00155",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "String"
+  },
+  {
+    "field_id": "00156",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{STRING}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|STRING!g",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00157",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "~XFELD"
+  },
+  {
+    "field_id": "00158",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{XFELD}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|XFELD!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00159",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Abap Bool"
+  },
+  {
+    "field_id": "00160",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{ABAP_BOOL}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|ABAP_BOOL!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00161",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Xstring"
+  },
+  {
+    "field_id": "00162",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{XSTRING}",
+    "binding_path": "APPL_CLASS|MT_ALL_TYPES!h|XSTRING!y",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00163",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C"
+  },
+  {
+    "field_id": "00164",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "C"
+  },
+  {
+    "field_id": "00165",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C"
+  },
+  {
+    "field_id": "00166",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "C"
+  },
+  {
+    "field_id": "00167",
+    "version": "0001",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00169",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00169",
+    "version": "0001",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/XFELD}{/ABAP_BOOL}{/XSTRING}",
+    "binding_path": "APPL_CLASS|MS_VALUEHELPTEST!v|XFELD}{|ABAP_BOOL}{|XSTRING"
+  },
+  {
+    "field_id": "00170",
+    "version": "0001",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
   }
 ]

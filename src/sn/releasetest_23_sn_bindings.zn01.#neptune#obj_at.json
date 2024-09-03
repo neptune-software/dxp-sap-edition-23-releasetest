@@ -550,6 +550,12 @@
   {
     "field_id": "00115",
     "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00115",
+    "attribute": "text",
     "grouping": "Properties",
     "value": "{/XSTRING}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|XSTRING!y",
@@ -605,5 +611,70 @@
     "grouping": "Properties",
     "value": "{/D}",
     "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|D!D"
+  },
+  {
+    "field_id": "00132",
+    "attribute": "title",
+    "grouping": "Properties",
+    "value": "Dialog Test"
+  },
+  {
+    "field_id": "00133",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "Text1 Dialog"
+  },
+  {
+    "field_id": "00163",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C"
+  },
+  {
+    "field_id": "00164",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "C"
+  },
+  {
+    "field_id": "00165",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C"
+  },
+  {
+    "field_id": "00166",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "C"
+  },
+  {
+    "field_id": "00167",
+    "attribute": "value",
+    "grouping": "Properties",
+    "value": "{/C}",
+    "binding_path": "APPL_CLASS|MS_ALL_TYPES!v|C!C",
+    "bind_build_origin": "TREE_SEL"
+  },
+  {
+    "field_id": "00169",
+    "attribute": "text",
+    "grouping": "Formatter",
+    "value": "Anonymous Function"
+  },
+  {
+    "field_id": "00169",
+    "attribute": "text",
+    "grouping": "Properties",
+    "value": "{/XFELD}{/ABAP_BOOL}{/XSTRING}",
+    "binding_path": "APPL_CLASS|MS_VALUEHELPTEST!v|XFELD}{|ABAP_BOOL}{|XSTRING"
+  },
+  {
+    "field_id": "00170",
+    "attribute": "press",
+    "grouping": "Events",
+    "value": "Anonymous Function"
   }
 ]
