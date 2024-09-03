@@ -1,3 +1,0 @@
-pageListFilterInputSort.fireChange(pageListFilterInputSort);
-// comment
-
